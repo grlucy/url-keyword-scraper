@@ -1,0 +1,13 @@
+table {
+ margin: 40px auto;
+ border-collapse: collapse;
+}
+td {
+ border-bottom: 1px solid rgb(97, 9, 155);
+ text-align: left;
+ padding: 5px 10px;
+}
+.tableLabel {
+ font-weight: 700;
+ color: rgb(97, 9, 155);
+}

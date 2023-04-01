@@ -1,0 +1,10 @@
+.inputContainer {
+ text-align: right;
+ margin-top: 15px;
+}
+label {
+ margin-right: 15px;
+}
+input {
+ width: 250px;
+}

@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.inputBlock {
+  display: inline-block;
+  margin: 20px auto;
+}
+
+.button {
+  cursor: pointer;
+  display: inline-block;
+  margin: 15px;
+  padding: 10px 20px;
+  background-color: rgb(97, 9, 155);
+  border-radius: 8px;
+  font-weight: 700;
+  color: white;
+}
+
+.button:hover {
+  background-color: rgb(155, 19, 247);
+}
+
+hr {
+  border: 1px dotted #aaaaaa;
+}
+
+.error {
+  color: red;
+}
